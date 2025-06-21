@@ -1,5 +1,6 @@
 # House Price Prediction
 
+This Project was initially made on January 2025 but pushed to github on June 2025
 A simple machine learning project to predict house prices using linear regression and stacking models, with interactive user input and visualization of key features.
 
 ---
